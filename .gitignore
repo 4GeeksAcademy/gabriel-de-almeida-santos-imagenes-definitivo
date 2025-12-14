@@ -7,3 +7,8 @@ dogs-vs-cats/
 *.jpg
 *.jpeg
 *.png
+# Modelos entrenados
+models/
+*.keras
+*.h5
+saved_model/
